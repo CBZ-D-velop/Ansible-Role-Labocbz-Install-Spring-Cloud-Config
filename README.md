@@ -138,6 +138,9 @@ Here you can put your change to keep a trace of your work and decisions.
 ### 2023-08-30: First Init
 
 * First init of this role with the bootstrap_role playbook by Lord Robin Crombez
+* Molecule ready with 3 instances
+* Java role required, so added in molecule/*/requirements.yml
+* Java 11 on instances for SPC
 
 ## Authors
 
